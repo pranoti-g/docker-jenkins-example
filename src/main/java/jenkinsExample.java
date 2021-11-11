@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class jenkinsExample {
+public class jenkinsExample {
+
 }
